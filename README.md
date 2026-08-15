@@ -1,2 +1,6 @@
 # maincrafts-embedded-iot-internship
-Projects and deliverables from my Maincrafts Embedded Systems &amp; IoT internship.
+
+| Task | Project | Status |
+|------|---------|--------|
+| Task 01 | Smart Lighting System using Arduino UNO and LDR | Completed |
+| Task 02 | Smart Motion Security System using Arduino UNO and PIR | Completed |
